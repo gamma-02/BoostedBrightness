@@ -162,10 +162,6 @@ public class BrightnessListWidget extends ElementListWidget<BrightnessListWidget
          return this.buttons;
       }
 
-      public List<? extends Selectable> method_37025() {
-         return this.buttons;
-      }
-
       @Override public List<? extends Selectable> selectableChildren()
       {
          return null;
